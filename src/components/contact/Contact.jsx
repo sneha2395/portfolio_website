@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              245 King Street, Touterie Victoria 8520 Australia
+             Durgapur, West bengal, India
             </div>
           </div>
         </div>
